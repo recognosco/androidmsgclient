@@ -1,0 +1,2 @@
+# androidmsgclient
+Android Messaging Client
